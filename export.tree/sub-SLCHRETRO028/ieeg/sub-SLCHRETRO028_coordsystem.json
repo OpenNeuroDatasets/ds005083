@@ -1,5 +1,0 @@
-{
-	"iEEGCoordinateSystem": "Other",
-	"iEEGCoordinateUnits": "mm",
-	"iEEGCoordinateSystemDescription": "Coordinates from native post-op CT image space. Not aligned to any other imaging or atlas."
-}
